@@ -1,4 +1,4 @@
-
+ 
 enum LEDS {red1=8, yellow1=9, green1=10, red2=11, yellow2=12, green2=13, red3=2, green3=3, yellow3=4, red4=5, green4=6, yellow4=7}; // leds=pins
 int leds1[] = {red1, yellow1, green1, red2, yellow2, green2, red3, green3, yellow3, red4, green4, yellow4};         // table of led enum first order
 int leds2[] = {red3, green3, yellow3, red4, green4, yellow4, red1, yellow1, green1, red2, yellow2, green2};         // table of led enum second order
